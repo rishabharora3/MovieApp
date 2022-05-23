@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "com.backbase.assignment"
+        applicationId 'com.personal.MovieApp'
         minSdkVersion 23
         targetSdkVersion 29
         versionCode 1
