@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ivCurrentMovie"
+    android:layout_width="106dp"
+    android:layout_height="160dp"
+    android:background="@color/colorPrimary"
+    tools:srcCompat="@tools:sample/avatars" />

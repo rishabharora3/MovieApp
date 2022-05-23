@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CS Android Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="playing_now">Playing now</string>
+    <string name="most_popular">Most popular</string>
+    <string name="percentage_symbol">%</string>
+    <string name="overview_dummy_text">After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos\' actions and restore order to the universe once and for all, no matter what consequences may be in store.</string>
+    <string name="overview">Overview</string>
+    <string name="toast_api_error">Something went wrong, please try again later</string>
+    <string name="toast_no_results">No results found</string>
+    <string name="not_available">Not available</string>
+    <string name="moviebox">MOVIEBOX</string>
+</resources>
