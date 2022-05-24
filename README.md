@@ -33,9 +33,25 @@ https://user-images.githubusercontent.com/14349274/170133355-d85c9576-55f3-44f1-
 
 * implementation 'com.github.bumptech.glide:glide:4.10.0' - image loading library
 * annotationProcessor 'com.github.bumptech.glide:compiler:4.10.0'
+* 
+* implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0' - used in the mvvm  pattern for live data handling
+* implementation "com.squareup.okhttp3:logging-interceptor:3.12.1" -  for logging http calls through retrofit
+* implementation 'androidx.fragment:fragment-ktx:1.2.5' -  use the latest viewmodel declaration method
+* testImplementation 'org.mockito:mockito-core:2.1.0' - UI tests
+
+
+Screenshots:
 
 * implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0' - used in the mvvm  pattern for live data handling
 * implementation "com.squareup.okhttp3:logging-interceptor:3.12.1" -  for logging http calls through retrofit
 * implementation 'androidx.fragment:fragment-ktx:1.2.5' -  use the latest viewmodel declaration method
 * testImplementation 'org.mockito:mockito-core:2.1.0' - UI tests
+
+<img width="510" alt="Screen Shot 2022-05-25 at 2 47 20 AM" src="https://user-images.githubusercontent.com/14349274/170135787-d9eb3007-5e7a-456f-af5b-9daba91e2a69.png">
+
+
+
+
+
+
 
