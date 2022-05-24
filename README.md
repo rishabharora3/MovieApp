@@ -1,3 +1,6 @@
+https://drive.google.com/file/d/1IiMuykq9pZf--iwbWMoRtfqUVcuBYqaM/view
+
+
 ## APPROACH FOR THE FIRST MOVIE LISTING SCREEN
 
 * Added a single recycler view for the whole screen, dividing each view of the screen into different items.
