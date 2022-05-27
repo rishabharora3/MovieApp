@@ -15,7 +15,7 @@ object DateTimeUtil {
         dateTime: String?,
         currentTimeFormat: String?,
         requiredTimeFormat: String?
-    ): String? {
+    ): String {
         var time = ""
         val date: Date?
         try {
