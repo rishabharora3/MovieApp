@@ -1,3 +1,10 @@
+
+### Application Recording:
+
+https://user-images.githubusercontent.com/14349274/170133355-d85c9576-55f3-44f1-a476-68070b23212a.mp4
+
+
+
 ## APPROACH FOR THE FIRST MOVIE LISTING SCREEN
 
 * Added a single recycler view for the whole screen, dividing each view of the screen into different items.
@@ -31,4 +38,21 @@
 * implementation "com.squareup.okhttp3:logging-interceptor:3.12.1" -  for logging http calls through retrofit
 * implementation 'androidx.fragment:fragment-ktx:1.2.5' -  use the latest viewmodel declaration method
 * testImplementation 'org.mockito:mockito-core:2.1.0' - UI tests
+* implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0' - used in the mvvm  pattern for live data handling
+* implementation "com.squareup.okhttp3:logging-interceptor:3.12.1" -  for logging http calls through retrofit
+* implementation 'androidx.fragment:fragment-ktx:1.2.5' -  use the latest viewmodel declaration method
+* testImplementation 'org.mockito:mockito-core:2.1.0' - UI tests
+
+
+Screenshots:
+
+<img width="511" alt="Screen Shot 2022-05-25 at 2 46 51 AM" src="https://user-images.githubusercontent.com/14349274/170136134-a8dc278b-1d88-4be8-a6fc-ba1f5d6421dc.png">
+
+<img width="510" alt="Screen Shot 2022-05-25 at 2 47 20 AM" src="https://user-images.githubusercontent.com/14349274/170135787-d9eb3007-5e7a-456f-af5b-9daba91e2a69.png">
+
+
+
+
+
+
 
