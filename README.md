@@ -1,4 +1,4 @@
-# MovieApp Android App
+# MovieApp - Android
 
 This is a basic Android application that provides information about currently playing movies and the most popular ones.
 
