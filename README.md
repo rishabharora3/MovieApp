@@ -32,18 +32,31 @@ Watch the application in action [here](https://user-images.githubusercontent.com
 
 ## Tech Stack
 
-### Third Party Libraries
+### UI Testing
+- [Espresso](https://developer.android.com/training/testing/espresso) - Android testing framework for writing UI tests.
 
-- `androidx.test.espresso:espresso-core:3.3.0` - UI testing
-- `androidx.recyclerview:recyclerview:1.1.0` - RecyclerView functionalities for movie listings
+### RecyclerView
+- [RecyclerView](https://developer.android.com/jetpack/androidx/releases/recyclerview) (version 1.1.0) - Android library for displaying large data sets with views.
 
-- `com.squareup.retrofit2:retrofit:2.6.0` - Network calls
-- `com.squareup.retrofit2:converter-gson:2.6.0` - GSON parsing for server data in JSON format
+### Network Calls
+- [Retrofit](https://square.github.io/retrofit/) (version 2.6.0) - Type-safe HTTP client for Android and Java.
 
-- `com.github.bumptech.glide:glide:4.10.0` - Image loading library
-- `com.github.bumptech.glide:compiler:4.10.0` - Annotation processor for Glide
+### JSON Parsing
+- [Gson](https://github.com/google/gson) (version 2.6.0) - Java library for JSON serialization and deserialization.
 
-- `androidx.lifecycle:lifecycle-extensions:2.2.0` - Used in the MVVM pattern for LiveData handling
-- `com.squareup.okhttp3:logging-interceptor:3.12.1` - For logging HTTP calls made through Retrofit
-- `androidx.fragment:fragment-ktx:1.2.5` - Utilized for the latest ViewModel declaration method
-- `org.mockito:mockito-core:2.1.0` - Used for UI testing
+### Image Loading
+- [Glide](https://github.com/bumptech/glide) (version 4.10.0) - Fast and efficient open-source media management and image loading framework for Android.
+
+### LiveData Handling (MVVM)
+- [Android Lifecycle Extensions](https://developer.android.com/jetpack/androidx/releases/lifecycle) (version 2.2.0) - Components for handling lifecycle-related tasks.
+
+### Logging HTTP Calls
+- [OkHttp Logging Interceptor](https://square.github.io/okhttp/interceptors/) (version 3.12.1) - Interceptor that logs HTTP requests and responses.
+
+### ViewModel Declaration
+- [Fragment KTX](https://developer.android.com/kotlin/ktx#fragment) (version 1.2.5) - Kotlin extensions for the Android Jetpack Fragment library.
+
+### Unit Testing
+- [Mockito](https://site.mockito.org/) (version 2.1.0) - Mocking framework for unit tests.
+
+
