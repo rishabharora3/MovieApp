@@ -2,6 +2,12 @@
 
 This is a basic Android application that provides information about currently playing movies and the most popular ones.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/14349274/170136134-a8dc278b-1d88-4be8-a6fc-ba1f5d6421dc.png" alt="Image 1" width="300">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/14349274/170135787-d9eb3007-5e7a-456f-af5b-9daba91e2a69.png" alt="Image 2" width="300">
+</p>
+
 ## Application Recording
 
 Watch the application in action [here](https://user-images.githubusercontent.com/14349274/170133355-d85c9576-55f3-44f1-a476-68070b23212a.mp4).
@@ -41,9 +47,3 @@ Watch the application in action [here](https://user-images.githubusercontent.com
 - `com.squareup.okhttp3:logging-interceptor:3.12.1` - For logging HTTP calls made through Retrofit
 - `androidx.fragment:fragment-ktx:1.2.5` - Utilized for the latest ViewModel declaration method
 - `org.mockito:mockito-core:2.1.0` - Used for UI testing
-
-## Screenshots
-
-<img width="511" alt="Screen Shot 2022-05-25 at 2 46 51 AM" src="https://user-images.githubusercontent.com/14349274/170136134-a8dc278b-1d88-4be8-a6fc-ba1f5d6421dc.png">
-
-<img width="510" alt="Screen Shot 2022-05-25 at 2 47 20 AM" src="https://user-images.githubusercontent.com/14349274/170135787-d9eb3007-5e7a-456f-af5b-9daba91e2a69.png">
